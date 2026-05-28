@@ -27,8 +27,8 @@ new codespace를 눌러 사용하고자하는 Repository와 Branch를 설정한�
 
 codespaces에서 저장소 내 파일에서 미리보기 표시를 하면 샘플 게임이 실행된다.
 <img width="864" height="762" alt="image" src="https://github.com/user-attachments/assets/e0ad21ab-5692-4ab6-b292-afc0b0afc055" />
-
-
+<br>
+<br>
 
 
 활동 2. CLI에서 Git 사용하기
@@ -40,13 +40,30 @@ CLI는 Command Line Interface의 줄임말로 마우스로 버튼을 누르는 �
 
 
 Git이 설치되어있는지 확인하기 위해 설치된 Git의 버전을 표시하기<br>
-터미널에 git --version 입력하기
+터미널에 git --version 입력하기<br>
 <img width="450" height="187" alt="image" src="https://github.com/user-attachments/assets/29cad197-d4cb-4158-b2cb-cd9946f28929" />
 
 
 Git 도움말을 보기<br>
-터미널에 git --help 입력
+터미널에 git --help 입력<br>
 <img width="838" height="637" alt="image" src="https://github.com/user-attachments/assets/add17c2d-5d0f-460e-ae21-8c32229b5949" />
+<br>
+<br>
+
+활동 3. Git ID 설정하기
+1. 표시 이름 설정하기<br>
+git config --global user.name "First Last"<br>
+<img width="700" height="127" alt="image" src="https://github.com/user-attachments/assets/6c62b26c-e383-496c-bf78-69f66bd89882" /><br>
+
+2. 이메일 주소 설정<br>
+git config --global user.email "me@example.com"<br>
+<img width="851" height="193" alt="image" src="https://github.com/user-attachments/assets/4a01213e-1f3d-4c74-af87-379079ce6b1d" /><br>
+
+3. 변경 사항 확인하기 위해 설정 확인<br>
+git config --global --list<br>
+<img width="815" height="269" alt="image" src="https://github.com/user-attachments/assets/09b625e1-adb7-490e-aadd-821f113e7baa" /><br>
+
+
 
 
 
