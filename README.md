@@ -39,12 +39,12 @@ CLI는 Command Line Interface의 줄임말로 마우스로 버튼을 누르는 �
 <img width="439" height="200" alt="image" src="https://github.com/user-attachments/assets/827d0bbc-5565-4fea-9187-5d178b47e89d" />
 
 
-Git이 설치되어있는지 확인하기 위해 설치된 Git의 버전을 표시하기
+Git이 설치되어있는지 확인하기 위해 설치된 Git의 버전을 표시하기<br>
 터미널에 git --version 입력하기
 <img width="450" height="187" alt="image" src="https://github.com/user-attachments/assets/29cad197-d4cb-4158-b2cb-cd9946f28929" />
 
 
-Git 도움말을 보기
+Git 도움말을 보기<br>
 터미널에 git --help 입력
 <img width="838" height="637" alt="image" src="https://github.com/user-attachments/assets/add17c2d-5d0f-460e-ae21-8c32229b5949" />
 
